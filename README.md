@@ -21,3 +21,7 @@
 |     |      | data = date, amount, category, description|
 |2.   | List | List all expense data in storange |
 |3.   | Delete | Delete expense data that user selected |
+
+![Example1](https://github.com/user-attachments/assets/bba2a3b0-ba90-4037-ba98-8291272d2545)
+![Example2](https://github.com/user-attachments/assets/84bbe63d-b293-4187-8834-029533341def)
+![Example3](https://github.com/user-attachments/assets/b0d43509-f42a-4d0c-b5b2-d76b55719161)
